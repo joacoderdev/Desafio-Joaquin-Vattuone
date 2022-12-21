@@ -110,4 +110,4 @@ class ProductManager {
     });
   }
 }
-export default ProductManager;
+module.exports = ProductManager;
