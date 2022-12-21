@@ -1,9 +1,9 @@
 import express from "express";
 import path from "path";
-import ProductManager from "./ProductManager.js";
+import ProductManager from "./productManager.js";
 
 const app = express();
-const port = 8080;
+const port = 8081;
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
@@ -20,7 +20,7 @@ app.get("/", (req, res) => {
 
 app.get("/productos", async (req, res) => {
   try {
-    const products = await productManager.getProducts();
+    const products = await productManager.getproducts();
     const limit = req.query.limit;
     let limitedProducts;
     if (limit) {
@@ -32,16 +32,16 @@ app.get("/productos", async (req, res) => {
   }
 });
 
-app.post("/productos", async (req, res) => {
+/* app.post("/productos", async (req, res) => {
   try {
-    const products = await productManager.getProducts();
+    const products = await productManager.getproducts();
     const newProduct = req.body;
     await productManager.addProduct(products, newProduct);
     res.send(newProduct);
   } catch (err) {
     res.status(500).send(err.message);
   }
-});
+}); */
 
 app.listen(port, () => {
   console.log(`Iniciado en http://localhost:${port}`);
