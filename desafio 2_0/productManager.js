@@ -103,7 +103,7 @@ class ProductManager {
                 return console.log("Error al escribir el archivo");
               }
               resolve();
-            }
+            }            
           );
         });
       });

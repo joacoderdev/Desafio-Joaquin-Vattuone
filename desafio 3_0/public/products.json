@@ -1,0 +1,348 @@
+[
+	{
+		"title": "Gorra",
+		"description": "Gorra piluso negra",
+		"price": 2500,
+		"thumbnail": "https://www.pnguniverse.com/wp-content/uploads/2021/06/Gorra-negra-suecaa-cdb871c6.png",
+		"code": "123456",
+		"stock": 15,
+		"id": 1
+	},
+	"remeras",
+	{
+		"title": "Remera",
+		"description": "Remera roja",
+		"price": 7500,
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2S90N6QH_VvPeCxhyRtI49aBkHdDdjvzCQ&usqp=CAU",
+		"code": "3435353",
+		"stock": 15,
+		"id": 7
+	},
+	{
+		"title": "Remera",
+		"description": "Remera roja",
+		"price": 7500,
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2S90N6QH_VvPeCxhyRtI49aBkHdDdjvzCQ&usqp=CAU",
+		"code": "3435353",
+		"stock": 15,
+		"id": 8
+	},
+	{
+		"title": "Remera",
+		"description": "Remera roja",
+		"price": 7500,
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2S90N6QH_VvPeCxhyRtI49aBkHdDdjvzCQ&usqp=CAU",
+		"code": "3435353",
+		"stock": 15,
+		"id": 9
+	},
+	{
+		"title": "Remera",
+		"description": "Remera roja",
+		"price": 7500,
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2S90N6QH_VvPeCxhyRtI49aBkHdDdjvzCQ&usqp=CAU",
+		"code": "3435353",
+		"stock": 15,
+		"id": 10
+	},
+	{
+		"title": "Remera",
+		"description": "Remera roja",
+		"price": 7500,
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2S90N6QH_VvPeCxhyRtI49aBkHdDdjvzCQ&usqp=CAU",
+		"code": "3435353",
+		"stock": 15,
+		"id": 11
+	},
+	{
+		"title": "Remera",
+		"description": "Remera roja",
+		"price": 7500,
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2S90N6QH_VvPeCxhyRtI49aBkHdDdjvzCQ&usqp=CAU",
+		"code": "3435353",
+		"stock": 15,
+		"id": 12
+	},
+	{
+		"title": "Pantalon",
+		"description": "Pantalon de mezclilla",
+		"price": 3333,
+		"thumbnail": "https://google.com.ar",
+		"code": "3435353",
+		"stock": 15,
+		"id": 13
+	},
+	{
+		"title": "Remera",
+		"description": "Remera roja",
+		"price": 7500,
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2S90N6QH_VvPeCxhyRtI49aBkHdDdjvzCQ&usqp=CAU",
+		"code": "3435353",
+		"stock": 15,
+		"id": 14
+	},
+	{
+		"title": "Remera",
+		"description": "Remera roja",
+		"price": 7500,
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2S90N6QH_VvPeCxhyRtI49aBkHdDdjvzCQ&usqp=CAU",
+		"code": "3435353",
+		"stock": 15,
+		"id": 15
+	},
+	{
+		"title": "Remera",
+		"description": "Remera roja",
+		"price": 7500,
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2S90N6QH_VvPeCxhyRtI49aBkHdDdjvzCQ&usqp=CAU",
+		"code": "3435353",
+		"stock": 15,
+		"id": 16
+	},
+	{
+		"title": "Remera",
+		"description": "Remera roja",
+		"price": 7500,
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2S90N6QH_VvPeCxhyRtI49aBkHdDdjvzCQ&usqp=CAU",
+		"code": "3435353",
+		"stock": 15,
+		"id": 17
+	},
+	{
+		"title": "Remera",
+		"description": "Remera roja",
+		"price": 7500,
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2S90N6QH_VvPeCxhyRtI49aBkHdDdjvzCQ&usqp=CAU",
+		"code": "3435353",
+		"stock": 15,
+		"id": 18
+	},
+	{
+		"title": "Remera",
+		"description": "Remera roja",
+		"price": 7500,
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2S90N6QH_VvPeCxhyRtI49aBkHdDdjvzCQ&usqp=CAU",
+		"code": "3435353",
+		"stock": 15,
+		"id": 19
+	},
+	{
+		"title": "Remera",
+		"description": "Remera roja",
+		"price": 7500,
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2S90N6QH_VvPeCxhyRtI49aBkHdDdjvzCQ&usqp=CAU",
+		"code": "3435353",
+		"stock": 15,
+		"id": 20
+	},
+	{
+		"title": "Remera",
+		"description": "Remera roja",
+		"price": 7500,
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2S90N6QH_VvPeCxhyRtI49aBkHdDdjvzCQ&usqp=CAU",
+		"code": "3435353",
+		"stock": 15,
+		"id": 21
+	},
+	{
+		"title": "Remera",
+		"description": "Remera roja",
+		"price": 7500,
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2S90N6QH_VvPeCxhyRtI49aBkHdDdjvzCQ&usqp=CAU",
+		"code": "3435353",
+		"stock": 15,
+		"id": 22
+	},
+	{
+		"title": "Remera",
+		"description": "Remera roja",
+		"price": 7500,
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2S90N6QH_VvPeCxhyRtI49aBkHdDdjvzCQ&usqp=CAU",
+		"code": "3435353",
+		"stock": 15,
+		"id": 23
+	},
+	{
+		"title": "Remera",
+		"description": "Remera roja",
+		"price": 7500,
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2S90N6QH_VvPeCxhyRtI49aBkHdDdjvzCQ&usqp=CAU",
+		"code": "3435353",
+		"stock": 15,
+		"id": 24
+	},
+	[
+		{
+			"title": "Remera",
+			"description": "Remera de algodon",
+			"price": 1000,
+			"thumbnail": "https://coderhouse.com",
+			"code": "123456",
+			"stock": 10,
+			"id": 1
+		},
+		"Zapatillas",
+		{
+			"title": "Zapatillas",
+			"description": "Zapatillas negras",
+			"price": 11500,
+			"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_880702-MLA47150825395_082021-W.jpg",
+			"code": "3435353",
+			"stock": 15,
+			"id": 7
+		},
+		{
+			"title": "Zapatillas",
+			"description": "Zapatillas negras",
+			"price": 11500,
+			"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_880702-MLA47150825395_082021-W.jpg",
+			"code": "3435353",
+			"stock": 15,
+			"id": 8
+		},
+		{
+			"title": "Zapatillas",
+			"description": "Zapatillas negras",
+			"price": 11500,
+			"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_880702-MLA47150825395_082021-W.jpg",
+			"code": "3435353",
+			"stock": 15,
+			"id": 9
+		},
+		{
+			"title": "Zapatillas",
+			"description": "Zapatillas negras",
+			"price": 11500,
+			"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_880702-MLA47150825395_082021-W.jpg",
+			"code": "3435353",
+			"stock": 15,
+			"id": 10
+		},
+		{
+			"title": "Zapatillas",
+			"description": "Zapatillas negras",
+			"price": 11500,
+			"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_880702-MLA47150825395_082021-W.jpg",
+			"code": "3435353",
+			"stock": 15,
+			"id": 11
+		},
+		{
+			"title": "Zapatillas",
+			"description": "Zapatillas negras",
+			"price": 11500,
+			"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_880702-MLA47150825395_082021-W.jpg",
+			"code": "3435353",
+			"stock": 15,
+			"id": 12
+		},
+		{
+			"title": "Zapatillas",
+			"description": "Zapatillas negras",
+			"price": 11500,
+			"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_880702-MLA47150825395_082021-W.jpg",
+			"code": "3435353",
+			"stock": 15,
+			"id": 13
+		},
+		{
+			"title": "Zapatillas",
+			"description": "Zapatillas negras",
+			"price": 11500,
+			"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_880702-MLA47150825395_082021-W.jpg",
+			"code": "3435353",
+			"stock": 15,
+			"id": 14
+		},
+		{
+			"title": "Zapatillas",
+			"description": "Zapatillas negras",
+			"price": 11500,
+			"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_880702-MLA47150825395_082021-W.jpg",
+			"code": "3435353",
+			"stock": 15,
+			"id": 15
+		},
+		{
+			"title": "Zapatillas",
+			"description": "Zapatillas negras",
+			"price": 11500,
+			"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_880702-MLA47150825395_082021-W.jpg",
+			"code": "3435353",
+			"stock": 15,
+			"id": 16
+		},
+		{
+			"title": "Zapatillas",
+			"description": "Zapatillas negras",
+			"price": 11500,
+			"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_880702-MLA47150825395_082021-W.jpg",
+			"code": "3435353",
+			"stock": 15,
+			"id": 17
+		},
+		{
+			"title": "Zapatillas",
+			"description": "Zapatillas negras",
+			"price": 11500,
+			"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_880702-MLA47150825395_082021-W.jpg",
+			"code": "3435353",
+			"stock": 15,
+			"id": 18
+		},
+		{
+			"title": "Zapatillas",
+			"description": "Zapatillas negras",
+			"price": 11500,
+			"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_880702-MLA47150825395_082021-W.jpg",
+			"code": "3435353",
+			"stock": 15,
+			"id": 19
+		},
+		{
+			"title": "Zapatillas",
+			"description": "Zapatillas negras",
+			"price": 11500,
+			"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_880702-MLA47150825395_082021-W.jpg",
+			"code": "3435353",
+			"stock": 15,
+			"id": 20
+		},
+		{
+			"title": "Zapatillas",
+			"description": "Zapatillas negras",
+			"price": 11500,
+			"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_880702-MLA47150825395_082021-W.jpg",
+			"code": "3435353",
+			"stock": 15,
+			"id": 21
+		},
+		{
+			"title": "Zapatillas",
+			"description": "Zapatillas negras",
+			"price": 11500,
+			"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_880702-MLA47150825395_082021-W.jpg",
+			"code": "3435353",
+			"stock": 15,
+			"id": 22
+		},
+		{
+			"title": "Zapatillas",
+			"description": "Zapatillas negras",
+			"price": 11500,
+			"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_880702-MLA47150825395_082021-W.jpg",
+			"code": "3435353",
+			"stock": 15,
+			"id": 23
+		},
+		{
+			"title": "Zapatillas",
+			"description": "Zapatillas negras",
+			"price": 11500,
+			"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_880702-MLA47150825395_082021-W.jpg",
+			"code": "3435353",
+			"stock": 15,
+			"id": 24
+		}
+	]
+]
