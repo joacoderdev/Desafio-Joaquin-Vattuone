@@ -69,12 +69,12 @@ cartRouter.post("/:cid/product/:pid", async (req, res) => {
     }
     const productInCart = cart.products.find((product) => product.id === pid);
     if (productInCart) {
-      productInCart.quantity++;
+      productInCart.cantidad++;
       await cartFileManager.writeAll(carts);
       res.send("Producto agregado al carrito");
       return;
     } else {
-      cart.products.push({ id: pid, quantity: 1 });
+      cart.products.push({ id: pid, cantidad: 1 });
       await cartFileManager.writeAll(carts);
       res.send("Producto agregado al carrito");
       return;
@@ -90,8 +90,8 @@ cartRouter.delete("/:cid/product/:pid", async (req, res) => {
   try {
     const productInCart = cart.products.find((product) => product.id === pid);
     if (productInCart) {
-      if (productInCart.quantity > 1) {
-        productInCart.quantity--;
+      if (productInCart.cantidad > 1) {
+        productInCart.cantidad--;
         await cartFileManager.writeAll(carts);
         res.send("Producto eliminado del carrito");
         return;
